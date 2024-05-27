@@ -15,7 +15,8 @@ python scripts were mostly used for training different flavours of CATs for
 different lead times.
 
 `CATs_L96.ipynb` is the main notebook that implements CATs for Lorenz'96 as 
-discussed in the paper, whereas `` 
+discussed in the paper. All notebooks begin with a comment that explains the
+objectives achieved in the notebook in more detail.  
     
 
 ## Data
